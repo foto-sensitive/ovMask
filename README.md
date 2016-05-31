@@ -12,6 +12,7 @@ Drag & drop media onto the app window to use as a mask between layers, drag mous
 
 ## Dependencies:
 This line is also a separate paragraph, but...
+
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*
 
 ### Examples
