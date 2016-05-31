@@ -7,13 +7,13 @@ a texture that is unwrapped spherically as a 360° image.
 The sketch is part of a series of 360° utility examples I made in openFrameworks, they are distinguished by the 'ov' (omni-vid) prefix.
 
 ## Usage
-Drag & drop media onto the app window to use as a mask between layers, drag mouse across the screen to look around.
+Drag & drop media onto the app window to use as a mask between layers, 
+
+drag mouse across the screen to look around.
 
 
 ## Dependencies:
-This line is also a separate paragraph, but...
-
-This line is only separated by a single newline, so it's a separate line in the *same paragraph*
+•ofxGui
 
 ### Examples
 openFrameworks 0.9.0
