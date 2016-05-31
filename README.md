@@ -11,8 +11,8 @@ Drag & drop media onto the app window to use as a mask between layers, drag mous
 
 
 ## Dependencies:
-### Library itself
-None (C++11)
+This line is also a separate paragraph, but...
+This line is only separated by a single newline, so it's a separate line in the *same paragraph*
 
 ### Examples
 openFrameworks 0.9.0
